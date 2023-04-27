@@ -53,7 +53,9 @@ mid_ele=arr[arr.shape[0]//2,arr.shape[1]//2]
 print(mid_row)
 print(mid_col)
 print(mid_ele)'''
-
+import numpy
+a=rendom.number(5,8,9)
+print(a)
 
 
 
